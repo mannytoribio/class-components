@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Comparing and converting Class and Functional Componenets
+
+We created a Class Component called `Counter` which tkaes props and uses state and lifecycle and converted it to `Counter 2` which does all the same using fewer lines using hooks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
